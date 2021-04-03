@@ -7,14 +7,14 @@ main:
     url: /boulders/
     
   - title: "Publications"
-    url: /publications/
+    url: /#publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: /#talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /#teaching/    
     
   - title: "CV"
-    url: /cv/
+    url: /#cv/
     
