@@ -83,8 +83,8 @@ author:
   name             : "Rich Mason"
   avatar           : "profile.png"
   bio              : "Rivers, rocks, inects and restoration"
-  location         : "Umeå Universitet, Sweden"
-  employer         : "https://www.umu.se/en/staff/richard-mason/"
+  location         : "https://www.umu.se/en/staff/richard-mason/"
+  employer         : 
   pubmed           : 
   googlescholar    : "http://scholar.google.se/citations?hl=sv&user=cHusG4YAAAAJ"
   email            : "richard.mason@umu.se"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/RiccoMason"
+  twitter          : "RiccoMason"
   vine             :
   weibo            :
   xing             :
