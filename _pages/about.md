@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This website is a work in progress. If you are interested in my research please see my [Umeå University webpage] (https://www.umu.se/en/staff/richard-mason/)
+This website is a work in progress. If you are interested in my research please see my [Umeå University webpage](https://www.umu.se/en/staff/richard-mason/)
 
 A data-driven personal website
 ======
